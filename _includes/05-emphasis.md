@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ *Escribiendo algo x* 😳
+
+**Aqui tambien escribimos otra cosa** 😮
+
+_Aquí **Vamos a** combinarlos_ 😃
